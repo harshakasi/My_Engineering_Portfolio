@@ -153,4 +153,4 @@ This project is for **simulation and testing purposes only**. It is not intended
 ![6_HL7Simulator_ActivConditions](Screenshots/6_HL7Simulator_ActivConditions.png)
 ![7_HL7Simulator_VitalsTimeline](Screenshots/7_HL7Simulator_VitalsTimeline.png)
 ![8_HL7Simulator_LabResults](Screenshots/8_HL7Simulator_LabResults.png)
-![9_AuditLogs](Screenshots/9_AuditLogs.png)
+![9_AuditLogs](Screenshots/9_HL7Simulator_AuditLogs.png)
