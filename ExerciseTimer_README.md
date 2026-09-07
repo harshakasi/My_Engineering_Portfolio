@@ -139,9 +139,9 @@ npm run android
 
 ## Screenshots
 
-![alt text](Screenshots/Mobile_Screenshot_1.jpg)
-![alt text](Screenshots/Mobile_Screenshot_2.jpg)
-![alt text](Screenshots/Mobile_Screenshot_3.jpg)
-![alt text](Screenshots/Mobile_Screenshot_4.jpg)
-![alt text](Screenshots/Mobile_Screenshot_5.jpg)
-![alt text](Screenshots/Mobile_Screenshot_6.jpg)
+![Exercise Timer - Landing Screen](Screenshots/1_Exercise_Timer-Landing_Screen.jpg)
+![Exercise Timer Run Screen](Screenshots/2_Exercise_Timer_Run_Screen.jpg)
+![Rest Timer Screen](Screenshots/3_Rest_Timer_Screen.jpg)
+![Repeat Set Timer Screen](Screenshots/4_Repeat_Set_Timer_Screen.jpg)
+![Exercise Paused Screen](Screenshots/5_Exercise_Paused_Screen.jpg)
+![Workout Complete Screen](Screenshots/6_Workout_Complete_Screen.jpg)

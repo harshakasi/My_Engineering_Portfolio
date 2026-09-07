@@ -101,7 +101,7 @@ Use a hosted PostgreSQL database such as Prisma Postgres, Neon, or Supabase. Do 
 
 ## Screenshots
 
-![alt text](<Screenshots/Screenshot 2026-09-06 at 9.11.04 PM.png>)
-![alt text](<Screenshots/Screenshot 2026-09-06 at 9.11.17 PM.png>)
-![alt text](<Screenshots/Screenshot 2026-09-06 at 9.12.24 PM.png>)
-![alt text](<Screenshots/Screenshot 2026-09-06 at 9.12.55 PM.png>)
+![1_CalorieApp_LoginScreen](Screenshots/1_CalorieApp_LoginScreen.png)
+![2_CalorieApp_MainScreenInputPlusHistory](Screenshots/2_CalorieApp_MainScreenInputPlusHistory.png)
+![3_CalorieApp_ExampleInput](Screenshots/3_CalorieApp_ExampleInput.png)
+![4_CalorieApp_HistoryExpandView](Screenshots/4_CalorieApp_HistoryExpandView.png)

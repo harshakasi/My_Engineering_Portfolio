@@ -145,12 +145,12 @@ This project is for **simulation and testing purposes only**. It is not intended
 
 ## Screenshots
 
-![alt text](<Screenshots/Screenshot 2026-09-06 at 9.04.39 PM.png>)
-![alt text](<Screenshots/Screenshot 2026-09-06 at 9.01.24 PM.png>)
-![alt text](<Screenshots/Screenshot 2026-09-06 at 9.01.46 PM.png>)
-![alt text](<Screenshots/Screenshot 2026-09-06 at 9.02.01 PM.png>)
-![alt text](<Screenshots/Screenshot 2026-09-06 at 9.02.18 PM.png>)
-![alt text](<Screenshots/Screenshot 2026-09-06 at 9.02.25 PM.png>)
-![alt text](<Screenshots/Screenshot 2026-09-06 at 9.03.03 PM.png>)
-![alt text](<Screenshots/Screenshot 2026-09-06 at 9.03.17 PM.png>)
-![alt text](<Screenshots/Screenshot 2026-09-06 at 9.03.30 PM.png>)
+![1_HL7Simulator_Authentication](Screenshots/1_HL7Simulator_Authentication.png)
+![2_HL7Simulator_PatientsDirectory](Screenshots/2_HL7Simulator_PatientsDirectory.png)
+![3_HL7Simulator_PatientNameClick_IntegrationSandbox](Screenshots/3_HL7Simulator_PatientNameClick_IntegrationSandbox.png)
+![4_HL7Simulator_GenPL_SendMdg](Screenshots/4_HL7Simulator_GenPL_SendMdg.png)
+![5_HL7Simulator_PatientChart_DG](Screenshots/5_HL7Simulator_PatientChart_DG.png)
+![6_HL7Simulator_ActivConditions](Screenshots/6_HL7Simulator_ActivConditions.png)
+![7_HL7Simulator_VitalsTimeline](Screenshots/7_HL7Simulator_VitalsTimeline.png)
+![8_HL7Simulator_LabResults](Screenshots/8_HL7Simulator_LabResults.png)
+![9_AuditLogs](Screenshots/9_AuditLogs.png)
