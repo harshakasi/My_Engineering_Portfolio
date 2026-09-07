@@ -1,9 +1,8 @@
 # My_Engineering_Portfolio
-All my hobby and semi-serious work
 
 Please read the respective README files for more information about the projects.
 
-Links to Vercel Deployments:\
+Links to Vercel Deployments:
 
 1. HL7Simulator - https://hl-7-simulator.vercel.app/
 
