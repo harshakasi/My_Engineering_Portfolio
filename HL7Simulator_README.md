@@ -145,12 +145,12 @@ This project is for **simulation and testing purposes only**. It is not intended
 
 ## Screenshots
 
-![alt text](<Screenshot 2026-09-06 at 9.04.39 PM.png>)
-![alt text](<Screenshot 2026-09-06 at 9.01.24 PM.png>)
-![alt text](<Screenshot 2026-09-06 at 9.01.46 PM.png>)
-![alt text](<Screenshot 2026-09-06 at 9.02.01 PM.png>)
-![alt text](<Screenshot 2026-09-06 at 9.02.18 PM.png>)
-![alt text](<Screenshot 2026-09-06 at 9.02.25 PM.png>)
-![alt text](<Screenshot 2026-09-06 at 9.03.03 PM.png>)
-![alt text](<Screenshot 2026-09-06 at 9.03.17 PM.png>)
-![alt text](<Screenshot 2026-09-06 at 9.03.30 PM.png>)
+![alt text](<Screenshots/Screenshot 2026-09-06 at 9.04.39 PM.png>)
+![alt text](<Screenshots/Screenshot 2026-09-06 at 9.01.24 PM.png>)
+![alt text](<Screenshots/Screenshot 2026-09-06 at 9.01.46 PM.png>)
+![alt text](<Screenshots/Screenshot 2026-09-06 at 9.02.01 PM.png>)
+![alt text](<Screenshots/Screenshot 2026-09-06 at 9.02.18 PM.png>)
+![alt text](<Screenshots/Screenshot 2026-09-06 at 9.02.25 PM.png>)
+![alt text](<Screenshots/Screenshot 2026-09-06 at 9.03.03 PM.png>)
+![alt text](<Screenshots/Screenshot 2026-09-06 at 9.03.17 PM.png>)
+![alt text](<Screenshots/Screenshot 2026-09-06 at 9.03.30 PM.png>)
