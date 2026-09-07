@@ -1,4 +1,4 @@
-# Exercise Timer RN ⏱️
+# Exercise Timer (React Native) ⏱️
 
 A React Native & Expo mobile application for managing set-based exercise interval timers. It features configurable sets, repeats per set, exercise/hold durations, and rest periods with audio cues and animated progress feedback.
 

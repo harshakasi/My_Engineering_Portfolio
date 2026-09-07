@@ -15,4 +15,5 @@ Links to Vercel Deployments:
                 Login: writetometoday@pm.me
 
                 Password: Harsha
-                
+
+3. Exercise Timer - please follow instructions within the ExerciseTimer_README.md for trying the code on Mobile iOS or Android. Some screenshots are attached within the ExerciseTimer_README.md for your quick reference.
